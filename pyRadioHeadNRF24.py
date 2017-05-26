@@ -20,9 +20,9 @@ class nRF24:
 
 	# Transmit Power Values
 	TransmitPower0dBm = 0
-	TransmitPower0dBm = 6
-	TransmitPower0dBm = 12
-	TransmitPower0dBm = 18
+	TransmitPowerm6dBm = 6
+	TransmitPowerm12dBm = 12
+	TransmitPowerm18dBm = 18
 
 	def __init__(self):
 
