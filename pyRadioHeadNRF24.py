@@ -16,6 +16,7 @@ class nRF24:
 	# Data Rate Values
 	DataRate1Mbps = 1
 	DataRate2Mbps = 2
+	DataRate250kbps = 3
 
 	# Transmit Power Values
 	TransmitPower0dBm = 0
